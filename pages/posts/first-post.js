@@ -9,6 +9,11 @@ export default function FirstPost() {
           <a>Back to home</a>
         </Link>
       </h2>
+      <style>{`
+      	a{
+      		color:red
+      	}
+      	`}</style>
     </>
   )
 }
