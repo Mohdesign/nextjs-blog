@@ -11,7 +11,7 @@ export default function FirstPost() {
       </h2>
       <style>{`
       	a{
-      		color:yellow
+      		color:blue
       	}
       	`}</style>
     </>
